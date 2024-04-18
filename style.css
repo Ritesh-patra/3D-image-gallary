@@ -24,8 +24,8 @@ nav{
     color: black;
 }
 
-nav a {
-    color: #551A8B;
+footer a {
+    cursor: pointer;
 }
 
 footer {
@@ -46,9 +46,7 @@ nav h1 {
     font-weight: 900;
 }
 
-nav a {
-    cursor: pointer;
-}
+
 
 .container {
     position: fixed;
