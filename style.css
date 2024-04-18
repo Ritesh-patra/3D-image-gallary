@@ -46,6 +46,10 @@ nav h1 {
     font-weight: 900;
 }
 
+nav a {
+    cursor: pointer;
+}
+
 .container {
     position: fixed;
     width: 100%;
